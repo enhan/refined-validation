@@ -7,7 +7,7 @@ scalaVersion := "2.12.8"
 libraryDependencies ++= Seq(
   "eu.timepit" %% "refined" % "0.9.5",
   "org.typelevel" %% "cats-core" % "1.6.0",
-  "org.scalaz" %% "scalaz-zio" % "1.0-RC4"
+  "org.scalaz" %% "scalaz-zio" % "1.0-RC5"
 )
 
 scalacOptions ++= Seq(
